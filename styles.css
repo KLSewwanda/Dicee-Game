@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #fffbde;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Chicle", serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #129990;
+}
+
+p {
+  font-size: 2rem;
+  color: #096b68;
+  font-family: "Chicle", serif;
+  font-weight: bold;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #096b68;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Chicle", serif;
+}
